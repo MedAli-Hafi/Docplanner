@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Docplanner/static/css/main.f2eb6209.chunk.css",
+    "main.js": "/Docplanner/static/js/main.873df482.chunk.js",
+    "main.js.map": "/Docplanner/static/js/main.873df482.chunk.js.map",
+    "runtime-main.js": "/Docplanner/static/js/runtime-main.136485df.js",
+    "runtime-main.js.map": "/Docplanner/static/js/runtime-main.136485df.js.map",
+    "static/js/2.c3aa216d.chunk.js": "/Docplanner/static/js/2.c3aa216d.chunk.js",
+    "static/js/2.c3aa216d.chunk.js.map": "/Docplanner/static/js/2.c3aa216d.chunk.js.map",
+    "index.html": "/Docplanner/index.html",
+    "precache-manifest.95f8343f0abdf8eb62c69cfb361bc954.js": "/Docplanner/precache-manifest.95f8343f0abdf8eb62c69cfb361bc954.js",
+    "service-worker.js": "/Docplanner/service-worker.js",
+    "static/css/main.f2eb6209.chunk.css.map": "/Docplanner/static/css/main.f2eb6209.chunk.css.map"
+  }
+}
