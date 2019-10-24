@@ -1,0 +1,95 @@
+.section4{
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap  
+}
+.titre4{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 26px;
+font-weight: 300;
+line-height: 33.8px;
+color: rgb(0, 179, 155)
+}
+.parag5{
+    width: 194px;
+    height: 89px;
+    margin-left: 100px;
+    margin-top: 32.5px
+}
+.parag6{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 660px;
+    height: 74px;
+    margin-top: 58px;  
+}
+.icon1{
+font-family: "PT+Sans", Helvetica, Arial, sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+color: #747474;
+padding: 0 20px;
+height: 24px;
+}
+.icon1:hover{
+    color: #00BDC1;
+    cursor: pointer;
+}
+.icon2{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+color: #747474;
+padding: 0 20px; 
+height: 24px;  
+}
+.icon2:hover{
+color: #00BDC1;
+cursor: pointer;  
+}
+.icon3{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+color: #747474;
+padding: 0 20px;
+height: 24px;
+}
+.icon3:hover{
+    color: #00BDC1;
+    cursor: pointer;
+}
+.icon4{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+color: #747474;
+padding: 0 20px;
+height: 24px;
+}
+.icon4:hover{
+    color: #00BDC1;
+    cursor: pointer;
+}
+.icon5{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+color: #747474;
+padding: 0 20px;
+height: 24px;
+}
+.icon5:hover{
+    color: #00BDC1;
+    cursor: pointer;
+}
+i{
+    width: 24px;
+    height: 24px
+}

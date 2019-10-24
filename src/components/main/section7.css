@@ -1,0 +1,157 @@
+.section7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 82px
+    }
+    .div7-1{
+    width: 314px;
+    height: 345px;
+    background-color: white;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: 186px;
+    margin-right: 12.5px
+    }
+    .div7-1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        cursor: pointer;
+    }
+    .logo7-1{
+        width: 309px;
+        height: 281px;
+        left: 0;
+    }
+    .div7-1-2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 278px;
+        height: 31px
+    }
+    .a1-1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgb(116, 116, 116);
+    }
+    .a1-2{
+        border: #8FD7FF;
+        background: #1662C6;
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        color: white;
+        margin-bottom: 25px;
+        margin-top: 14px;
+        padding-top: 13px;
+        padding-left: 14px;
+        border-radius: 10px;
+        height:25px;
+        width: 130px
+        }
+        .a1-2:hover{
+          opacity: 0.7;
+        }
+        .div7-2{
+        width: 314px;
+        height: 345px;
+        background-color: white;
+        margin-bottom: 25px;
+        border-radius: 10px;
+        overflow: hidden; 
+        margin-left: 12.5px;
+        margin-right: 12.5px 
+        }
+        .div7-2:hover{
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        cursor: pointer;   
+        }
+        .logo7-2{
+        width: 309px;
+        height: 281px;
+        left: 0;  
+        }
+        .div7-2-2{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 278px;
+        height: 31px   
+        }
+        .a2-1{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30px;
+        color: rgb(116, 116, 116);  
+        }
+        .a2-2{
+        border: #8FD7FF;
+        background:  #1662C6;
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        color: white;
+        margin-bottom: 25px;
+        margin-top: 14px;
+        padding-top: 13px;
+        padding-left: 14px;
+        border-radius: 10px;
+        height:25px;
+        width: 130px  
+        }
+        .a2-2:hover{
+       opacity: 0.7; 
+        }
+        .div7-3{
+        width: 314px;
+        height: 345px;
+        background-color: white;
+        margin-bottom: 25px;
+        border-radius: 10px;
+        overflow: hidden;  
+        margin-left: 12.5px;
+        margin-right: 186px 
+        }
+        .div7-3:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        cursor: pointer;       
+        }
+        .logo7-3{
+        width: 309px;
+        height: 281px;
+        left: 0;  
+        }
+        .div7-3-3{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 278px;
+        height: 31px     
+        }
+        .a3-1{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30px;
+        color: rgb(116, 116, 116);   
+        }
+        .a3-2{
+        border: #8FD7FF;
+        background: #1662C6;
+        font-family: 'Raleway', sans-serif;
+        font-size: 14px;
+        color: white;
+        margin-bottom: 25px;
+        margin-top: 14px;
+        padding-top: 13px;
+        padding-left: 14px;
+        border-radius: 10px;
+        height:25px;
+        width: 130px    
+        }
+        .a3-2:hover{
+            opacity: 0.7;   
+        }

@@ -1,0 +1,29 @@
+.section6{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.div3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.h-div3{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 30px;
+font-weight: 300;
+line-height: 39px;
+color: rgb(0, 179, 155);
+width: 383px;
+height: 68px;
+}
+.p-div3{
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(116, 116, 116);
+width: 443px;
+height: 90px;
+}

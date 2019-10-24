@@ -1,0 +1,106 @@
+.parag3{
+    width: 475px;
+    height: 380px;
+    background-color: #00BDC1;
+    border-radius: 10px;
+    padding-top: 27px;
+    position: relative;
+    margin-right: 10px;
+    
+}
+
+.parag4{
+ width: 475px;
+height: 380px;
+margin-left: 10px;
+background-color: #3D83DF;
+border-radius: 10px;
+padding-top: 27px;
+position: relative;
+
+
+}
+.section3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+width: 100%;
+}
+.span1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
+
+    font-size: 14px;
+    
+    font-weight: 400;
+    
+    line-height: 18.2px;
+    
+    color: rgba(255, 255, 255, 0.7);
+    margin-left: 40px;
+    
+}
+.titre2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    font-size: 26px;
+    
+    font-weight: 300;
+    
+    line-height: 33.8px;
+    
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+}
+.span2{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif ;
+
+    font-size: 14px;
+    
+    font-weight: 400;
+    
+    line-height: 18.2px;
+    
+    color: rgba(255, 255, 255, 0.7);
+    margin-left: 40px;
+}
+.titre3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    font-size: 26px;
+    
+    font-weight: 300;
+    
+    line-height: 33.8px;
+    
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+}
+.logo2{
+width: 400px;
+height: 240px;
+}
+.image-div{
+    overflow: hidden;
+    width:300px
+}
+.logo3{
+    width: 400px;
+    height: 240px;
+    margin-left: 186px;
+  
+    }
+    .image-div2{
+        overflow: hidden;
+        width:475px;
+    }
+    .btn{
+width: 175px;
+height: 35px;
+margin-left: 40px;
+
+   }
+   .ee{
+       display: flex;
+       
+   }
+     
